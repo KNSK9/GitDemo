@@ -20,7 +20,8 @@ public class Loginpage {
 		pg.passcode().sendKeys("hello");
 		pg.submit().click();
 		System.out.println(pg.Error().getText());
-		
+		System.out.println("naga sai");
+		System.out.println("Sai");
 		
 	}
 
